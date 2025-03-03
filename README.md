@@ -1,4 +1,7 @@
 🐱 Exibe Gatos – Aplicativo Mobile com The Cat API
+![gatos](https://github.com/user-attachments/assets/d62f4792-df0f-48b3-b5a6-cb6057250cbc)
+
+
 Este repositório contém um aplicativo desenvolvido em React Native para a disciplina de Programação para Dispositivos Móveis da FATEC Ipiranga. O projeto exibe imagens de gatos obtidas dinamicamente via The Cat API, permitindo que o usuário visualize novas fotos a cada interação.
 
 📌 Funcionalidades
